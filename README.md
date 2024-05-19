@@ -1,5 +1,5 @@
 ## Using Ktor and Koin
 
-1. I used the dependency injection using the Koin library
-2. I used the api calling using Ktor and bind that data to recycler view
+1. I used the Koin library for dependency injection 
+2. I used Ktor for api calling and bind that data to recycler view
 
